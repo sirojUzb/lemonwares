@@ -67,7 +67,7 @@ function Footer() {
         <p className="mt-16 flex items-center gap-1.5 text-[15px] text-white/90">
           Built by Jeremiah with
           <span className="text-white">&hearts;</span>
-          in Lagos. Copyright 2026
+          in Lagos. Copyright 2026 by SIROJ
         </p>
       </div>
     </footer>
