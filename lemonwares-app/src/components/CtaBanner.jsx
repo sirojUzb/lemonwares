@@ -1,4 +1,4 @@
-import contact from '../../../images/contact.png'
+import whatsapp from '../../../images/whatsapp.svg'
 
 function CtaBanner() {
   return (
@@ -27,7 +27,7 @@ function CtaBanner() {
             href="#contact"
             className="mt-10 inline-flex items-center gap-2 rounded-md bg-[#C8102E] px-6 py-3.5 text-[15px] font-semibold text-white shadow-[0_18px_40px_-12px_rgba(200,16,46,0.6)] transition-colors hover:bg-[#a50d26]"
           >
-            <img src={contact} alt="" className="h-5 w-5" />
+            <img src={whatsapp} alt="" className="h-5 w-5" />
             Get in touch with us
           </a>
         </div>

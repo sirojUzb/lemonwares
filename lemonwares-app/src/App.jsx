@@ -7,6 +7,7 @@ import PricingCards from "./components/PricingCards";
 import Testimonials from "./components/Testimonials";
 import Brands from "./components/Brands";
 import CtaBanner from "./components/CtaBanner";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <Testimonials />
       <Brands />
       <CtaBanner />
+      <Footer />
     </div>
   );
 }
