@@ -27,7 +27,7 @@ const columns = [
 function Footer() {
   return (
     <footer className="w-full bg-[#B30D1F] text-white">
-      <div className="mx-auto max-w-[1200px] px-10 py-16">
+      <div className="mx-auto max-w-300 px-10 py-16">
         <div className="grid gap-12 md:grid-cols-[1.4fr_1fr_1fr_1fr_1fr]">
           {/* Brand */}
           <div className="max-w-xs">
@@ -67,7 +67,7 @@ function Footer() {
         <p className="mt-16 flex items-center gap-1.5 text-[15px] text-white/90">
           Built by Jeremiah with
           <span className="text-white">&hearts;</span>
-          in Lagos. Copyright 2026 by SIROJ
+          in Lagos. Copyright 2026
         </p>
       </div>
     </footer>
